@@ -32,7 +32,7 @@ Shareware
 Page completed as per instructions given. Pending review. May be udpated with future requests. 
 
 # Links
-  Repo location: http?//github
+deployed app https://preeya777.github.io/Challenge-1/
 
 
 
