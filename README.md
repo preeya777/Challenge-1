@@ -2,16 +2,19 @@
 First Challenge assignment for bootcamp course
 
 # Description
-This landing page serves as an introductory interface for Horiseon (Client) on their website.
+This page serves as an introductory interface for Horiseon on their website.
 
 # Installation
 Add index.html file to your domain 
 Add assets folder to your domain
-Ensure that index.html is correctly linked to the CSS source file.
+Ensure the CSS source file and index.html is correctly linked 
 
 # Usage
 Read the content to familiarize yourself with the page.
 Click on the navigation bar to navigate to specific details related to the clicked object.
+
+# Credits
+No collaborators. 
 
 # Support 
 Current known issues: 
